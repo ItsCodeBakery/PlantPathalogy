@@ -1,7 +1,7 @@
 
 # Plant Pathology - Self-Supervised Learning 
 
-This repository contains the complete code for the research paper on **Plant Disease Detection** using a combination of **SimCLR-style contrastive pretraining** and **CNN-based fine-tuning**, along with visualization tools including Grad-CAM, t-SNE, ROC curves, and training metrics.
+This repository contains the complete code along with visualization tools including Grad-CAM, t-SNE, ROC curves, and training metrics.
 
 ---
 
