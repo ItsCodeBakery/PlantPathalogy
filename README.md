@@ -23,7 +23,7 @@ Code/
 
 ---
 
-## 🧠 Model Overview
+##  Model Overview
 
 `SimCLR_CNNClassifier.py` defines a unified architecture:
 - `mode='pretrain'`: Enables **SimCLR** contrastive learning using a projection head.
@@ -35,13 +35,13 @@ Use `.set_mode('pretrain')` and `.set_mode('classification')` as needed.
 
 ## 🔄 Workflow
 
-### 🔧 1. Setup
+###  1. Setup
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 📦 2. Data Format
+###  2. Data Format
 
 Organize your dataset like this:
 ```
@@ -54,14 +54,14 @@ Organize your dataset like this:
         ├── class2/
 ```
 
-### 🚀 3. Training
+###  3. Training
 
 
 # Supervised fine-tuning
 python train_model.py
 
 
-### 📊 4. Evaluation
+###  4. Evaluation
 
 
 python test.py
@@ -75,7 +75,7 @@ This will:
 
 ---
 
-## 📈 Visualization Tools
+##  Visualization Tools
 
 | Module | Description |
 |--------|-------------|
@@ -87,7 +87,7 @@ This will:
 
 ---
 
-## 📌 Key Features
+##  Key Features
 
 - ✅ Self-supervised learning via **SimCLR projection head**
 - ✅ Custom CNN architecture
