@@ -5,7 +5,7 @@ This repository contains the complete code along with visualization tools includ
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Code/
@@ -33,7 +33,7 @@ Use `.set_mode('pretrain')` and `.set_mode('classification')` as needed.
 
 ---
 
-## 🔄 Workflow
+##  Workflow
 
 ###  1. Setup
 
