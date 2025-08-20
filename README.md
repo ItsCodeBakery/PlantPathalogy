@@ -89,11 +89,11 @@ This will:
 
 ##  Key Features
 
-- ✅ Self-supervised learning via **SimCLR projection head**
-- ✅ Custom CNN architecture
-- ✅ Classification with full visualization suite
-- ✅ Modular design for ease of extension
-- ✅ Plots are saved in `plots/` (ensure the directory exists)
+-  Self-supervised learning via **SimCLR projection head**
+-  Custom CNN architecture
+-  Classification with full visualization suite
+-  Modular design for ease of extension
+-  Plots are saved in `plots/` (ensure the directory exists)
 
 ---
 
