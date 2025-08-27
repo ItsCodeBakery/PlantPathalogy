@@ -94,6 +94,7 @@ This will:
 -  Classification with full visualization suite
 -  Modular design for ease of extension
 -  Plots are saved in `plots/` (ensure the directory exists)
+-  Feel free to contact me if you face any problem in running the code. 
 
 ---
 
