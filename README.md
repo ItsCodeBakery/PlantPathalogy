@@ -94,7 +94,7 @@ This will:
 
 #### 🔍 Grad-CAM Visualization
 <p align="center">
-  <img src="https://github.com/ItsCodeBakery/PlantPathalogy/raw/main/Plots/Plots/gcPlantVillage (1).png" alt="Grad-CAM Attention Map" width="600"/>
+  <img src="https://github.com/ItsCodeBakery/PlantPathalogy/blob/main/Plots/gcPlantVillage%20(1).png" alt="Grad-CAM Attention Map" width="600"/>
 </p>
 
 
