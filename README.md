@@ -30,6 +30,11 @@ Code/
 
 Use `.set_mode('pretrain')` and `.set_mode('classification')` as needed.
 
+<p align="center">
+  <img src="https://github.com/ItsCodeBakery/PlantPathalogy/raw/main/Plots/CLR_Dia.png" alt="SimCLR CNN Classifier Diagram" width="700"/>
+</p>
+
+
 ---
 
 ##  Workflow
