@@ -67,15 +67,36 @@ python train_model.py
 
 ###  4. Evaluation
 
-
 python test.py
-
 
 This will:
 - Print classification report
 - Save confusion matrix
 - Save ROC-AUC plots
 - Save t-SNE plot
+
+### 📊 Output Visualizations
+
+#### ✅ Confusion Matrix
+<p align="center">
+  <img src="https://github.com/ItsCodeBakery/PlantPathalogy/raw/main/Plots/PL_CS.png" alt="Confusion Matrix" width="600"/>
+</p>
+
+#### 🌀 t-SNE Visualization
+<p align="center">
+  <img src="https://github.com/ItsCodeBakery/PlantPathalogy/raw/main/Plots/PL_tSNE.png" alt="t-SNE Plot" width="600"/>
+</p>
+
+#### 📈 Accuracy & Loss Curve
+<p align="center">
+  <img src="https://github.com/ItsCodeBakery/PlantPathalogy/raw/main/Plots/loss_accuracy_curve.png" alt="Training and Validation Curve" width="600"/>
+</p>
+
+#### 🔍 Grad-CAM Visualization
+<p align="center">
+  <img src="https://github.com/ItsCodeBakery/PlantPathalogy/raw/main/Plots/gcCassava.png" alt="Grad-CAM Attention Map" width="600"/>
+</p>
+
 
 ---
 
