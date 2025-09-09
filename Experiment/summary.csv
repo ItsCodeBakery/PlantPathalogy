@@ -1,0 +1,2 @@
+model,dataset,epochs,img_size,batch_size,val_acc_final,val_f1_final,val_acc_best,val_f1_best,total_time_sec
+DenseNet121,Cassava,8,224,32,0.8441882206294796,0.7327075695851655,0.8441882206294796,0.7327075695851655,1361.8657562732697
