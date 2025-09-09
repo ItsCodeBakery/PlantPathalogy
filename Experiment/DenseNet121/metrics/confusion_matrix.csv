@@ -1,6 +1,6 @@
-true,Cassava Bacterial Blight (CBB),Cassava Brown Streak Disease (CBSD),Cassava Green Mottle (CGM),Cassava Mosaic Disease (CMD),Healthy
-Cassava Bacterial Blight (CBB),82,14,7,6,38
-Cassava Brown Streak Disease (CBSD),18,256,11,17,28
-Cassava Green Mottle (CGM),3,7,275,41,29
-Cassava Mosaic Disease (CMD),5,31,77,1839,44
-Healthy,29,28,40,27,257
+,pred_0,pred_1,pred_2,pred_3,pred_4
+true_0,60,11,3,9,26
+true_1,13,158,10,17,21
+true_2,1,5,183,30,19
+true_3,8,14,25,1251,18
+true_4,25,23,15,21,174
