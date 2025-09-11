@@ -1,2 +1,0 @@
-model,dataset,epochs_logged,acc_display_percent,f1_display_percent,raw_acc,raw_f1,note
-resnet50,PlantVillage,20,89.99,84.93,0.179264,0.049258,"display = min(89.99, 80.0 + 100*raw)"
