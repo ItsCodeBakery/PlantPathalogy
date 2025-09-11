@@ -1,2 +1,2 @@
 model,dataset,epochs,img_size,batch_size,val_acc_final,val_f1_final,val_acc_best,val_f1_best,total_time_sec
-resnet50,PlantVillage,20,224,64,0.179264,0.049258,0.216085,0.080831,2306.612
+resnet50,PlantVillage,20,224,32,0.877009,0.777526,0.865421,0.790812,3279.161
