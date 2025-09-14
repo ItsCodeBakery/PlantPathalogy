@@ -1,0 +1,2 @@
+model,dataset,epochs,img_size,batch_size,val_acc_final,val_f1_final,val_acc_best,val_f1_best,total_time_sec
+googlenet,PlantVillage,20,224,32,0.928719,0.928817,0.929688,0.929648,2323.283
