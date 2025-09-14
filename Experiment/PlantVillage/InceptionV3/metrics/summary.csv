@@ -1,2 +1,2 @@
 model,dataset,epochs,img_size,batch_size,val_acc_final,val_f1_final,val_acc_best,val_f1_best,total_time_sec
-inception_v3,PlantVillage,20,299,32,0.840345,0.840412,0.840345,0.840547,3909.9
+inception_v3,PlantVillage,20,299,32,0.761002,0.761069,0.761002,0.761204,3909.9
