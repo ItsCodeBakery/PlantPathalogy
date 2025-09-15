@@ -1,0 +1,8 @@
+model,dataset,epochs,img_size,batch_size,val_acc_final,val_f1_final,val_acc_best,val_f1_best,total_time_sec
+densenet121,Cassava Leaf Disease Classification,20,224,32,0.853271,0.736916,0.855607,0.736916,3617.506
+densenet169,Cassava Leaf Disease Classification,20,224,32,0.853738,0.746225,0.854206,0.746353,4064.275
+googlenet,Cassava Leaf Disease Classification,20,224,32,0.838785,0.718418,0.840187,0.721393,4508.256
+inception_v3,Cassava Leaf Disease Classification,20,224,32,0.846262,0.728005,0.846262,0.73261,4750.031
+resnet50,Cassava Leaf Disease Classification,20,224,32,0.857009,0.747526,0.865421,0.760812,3579.161
+vit_b_16,Cassava Leaf Disease Classification,20,224,32,0.786916,0.635982,0.78785,0.640426,4828.391
+vit_b_16,Cassava Leaf Disease Classification,20,224,32,0.786916,0.635982,0.78785,0.640426,4828.391
