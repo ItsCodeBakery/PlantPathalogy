@@ -1,0 +1,8 @@
+model,dataset,epochs,img_size,batch_size,val_acc_final,val_f1_final,val_acc_best,val_f1_best,total_time_sec
+densenet121,PlantVillage,20,224,32,0.919204,0.9195,0.919204,0.9195,2628.13
+densenet169,PlantVillage,20,224,32,0.929688,0.929896,0.930173,0.930148,2561.127
+googlenet,PlantVillage,20,224,32,0.928719,0.928817,0.929688,0.929648,2323.283
+inception_v3,PlantVillage,20,299,32,0.761002,0.761069,0.761002,0.761204,3909.9
+resnet50,PlantVillage,20,224,32,0.877009,0.777526,0.865421,0.790812,3279.161
+vgg16,PlantVillage,20,224,32,0.92,0.917271,0.92,0.917271,2555.813
+vit_b_16,PlantVillage,20,224,32,0.929204,0.929317,0.929204,0.929317,4341.203
